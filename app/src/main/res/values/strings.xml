@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Log Analyse</string>
+    <string name="start_logcat">Start</string>
+    <string name="stop_logcat">Stop</string>
+    <string name="results_viewer">Logs will appear here</string>
+    <string name="save">Save</string>
+</resources>
