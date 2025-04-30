@@ -1,0 +1,20 @@
+# Ignore Python Bytecode Files
+__pycache__/         # Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Virtual Environments
+venv/                # Virtual environment folder
+
+# Ignore Log Files and Data
+data/                # Data folder (logs, parsed CSVs, etc.)
+*.csv                # Ignore CSV log files
+
+# Ignore IDE Files
+.idea/               # JetBrains IDE configuration files
+.vscode/             # Visual Studio Code configuration files
+
+# Ignore System Files
+.DS_Store            # macOS system file
+Thumbs.db            # Windows system file
